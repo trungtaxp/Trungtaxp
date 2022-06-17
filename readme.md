@@ -1,3 +1,6 @@
+<h2> Hey there! I'm Trungtaxp. <img src="https://github.com/trungtaxp/trungtaxp/blob/main/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/trungtaxp/trungtaxp/blob/main/0_JFgm1wgpsbs9FKJn.gif" width="500"/>
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on Web Application Development
@@ -24,4 +27,3 @@
 
 </br>
 ⭐️ From <a target="_blank" href="https://github.com/trungtaxp">Trungtaxp</a>
-1
