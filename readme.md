@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Trungtaxp. <img src="https://github.com/trungtaxp/trungtaxp/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/trungtaxp/trungtaxp/blob/main/0_JFgm1wgpsbs9FKJn.gif" width="500"/>
+<h2> Hey there! I'm Trungtaxp. <img src="https://github.com/trungtaxp/Trungtaxp/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/trungtaxp/Trungtaxp/blob/master/0_JFgm1wgpsbs9FKJn.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
