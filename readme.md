@@ -15,15 +15,15 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwinds | Livewrire
 - 🛢 &nbsp; MySQL | Apache | Nginx | Docker
 - 🔧 &nbsp; Deployer | Git
-- 🖥 &nbsp; Linux | Window | MacOs
+- 🖥 &nbsp; Linux | MacOs | Window
 
 <br>
 
-<img align="center" src="https://github.com/trungtaxp/github-stats/blob/master/generated/overview.svg" alt="Trung Ta's Github Stats">
+<img align="center" src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Trung Ta's Github Stats"/>
 
 </br>
 
-![Top Langs](https://github.com/trungtaxp/github-stats/blob/master/generated/languages.svg)
+![Top Langs](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 </br>
 ⭐️ From <a target="_blank" href="https://github.com/trungtaxp">Trungtaxp</a>
