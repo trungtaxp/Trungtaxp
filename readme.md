@@ -17,6 +17,7 @@
 - 🔧 &nbsp; Deployer | Git
 - 🖥 &nbsp; Linux | MacOs | Window
 
+<h3>👨‍💻 Github Stats</h3>
 </br>
 <a href="https://github.com/trungtaxp/github-stats">
 <img src="https://github.com/trungtaxp/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Trung Ta's overview Github Stats"/>
