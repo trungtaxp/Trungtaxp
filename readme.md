@@ -18,12 +18,11 @@
 - 🖥 &nbsp; Linux | MacOs | Window
 
 <br>
-
+<a href="https://github.com/trungtaxp/github-stats">
 <img align="center" src="https://github.com/trungtaxp/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Trung Ta's Github Stats"/>
-
-</br>
-
 ![Top Langs](https://github.com/trungtaxp/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+</a>
+
 
 </br>
 ⭐️ From <a target="_blank" href="https://github.com/trungtaxp">Trungtaxp</a>
